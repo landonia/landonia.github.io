@@ -5,7 +5,7 @@ slug: "why-oh-why"
 description: "Why a new blog"
 keywords: ["blog"]
 draft: false
-tags: []
+tags: ["rants"]
 math: false
 toc: true
 ---
@@ -18,7 +18,7 @@ There are two main projects that I wish to work on that I hope to write more abo
 
 ## Build It and They Will Come
 
-Similar to the build it and they will come quote (I wish that was the case), I am following more of a write about it and I will get off my lazy ass and do it kind of thing.
+Similar to the build it and they will come quote (I wish that was the case), I'm following more of a write about it and I'll get off my lazy ass and do it kind of thing.
 
 Thanks for reading.
 
