@@ -2,7 +2,7 @@ theme = "hugo-theme-codex"
 
 title = 'landonia.com : Life thru a lando'
 languageCode = 'en-us'
-baseURL = 'https://www.landonia.com/'
+baseURL = 'https://landonia.com/'
 copyright = "© {year}"
 
 [params]
