@@ -1,0 +1,35 @@
+theme = "hugo-theme-codex" 
+
+title = 'landonia.com : Life thru a lando'
+languageCode = 'en-us'
+baseURL = 'https://www.landonia.com/'
+copyright = "© {year}"
+
+[params]
+  dateFormat = "Jan 2 2006"
+
+  twitter = "https://twitter.com/landotube"
+  github = "https://github.com/landonia"
+  linkedin = "https://www.linkedin.com/in/landonwainwright"
+  iconOrder = ["GitHub", "Twitter", "LinkedIn"]
+  
+  showPageTitleInTOC = false
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+    
+  [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
