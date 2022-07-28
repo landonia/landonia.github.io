@@ -20,5 +20,5 @@ There are two main projects that I wish to work on that I hope to write more abo
 
 Similar to the build it and they will come quote (I wish that was the case), I'm following more of a write about it and I'll get off my lazy ass and do it kind of thing.
 
-Thanks for reading Dragos.
+Thanks for reading.
 
