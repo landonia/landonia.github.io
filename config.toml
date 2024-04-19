@@ -8,10 +8,9 @@ copyright = "© {year}"
 [params]
   dateFormat = "Jan 2 2006"
 
-  twitter = "https://twitter.com/landotube"
   github = "https://github.com/landonia"
   linkedin = "https://www.linkedin.com/in/landonwainwright"
-  iconOrder = ["GitHub", "Twitter", "LinkedIn"]
+  iconOrder = ["GitHub", "LinkedIn"]
   
   showPageTitleInTOC = false
 
