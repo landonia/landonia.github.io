@@ -22,3 +22,5 @@ Similar to the build it and they will come quote (I wish that was the case), I'm
 
 Thanks for reading.
 
+That's all folks!
+
